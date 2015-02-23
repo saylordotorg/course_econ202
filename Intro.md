@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON202: Intermediate Macroeconomics"
+course_description: "An advanced treatment of the dynamics of the macro-economy, which includes topics related to the determination of aggregate output, the determination of the interest rate, business cycle theories and stabilization, the stock market, household and firm behavior in the macro-economy, and debates in macroeconomics."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ECON202: Intermediate Macroeconomics"
 ----------------------------------------------------------
 

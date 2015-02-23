@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON202: Intermediate Macroeconomics"
+course_description: "An advanced treatment of the dynamics of the macro-economy, which includes topics related to the determination of aggregate output, the determination of the interest rate, business cycle theories and stabilization, the stock market, household and firm behavior in the macro-economy, and debates in macroeconomics."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Consumption, Savings, Capital and Investment** <span
 id="3"></span> 
 *Households are generally defined as the owners of all factors of
